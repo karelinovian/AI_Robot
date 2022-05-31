@@ -1,0 +1,7 @@
+C:\_up-step\VS\AI_Robot\bin\Debug\AI_Robot.exe.config
+C:\_up-step\VS\AI_Robot\bin\Debug\AI_Robot.exe
+C:\_up-step\VS\AI_Robot\bin\Debug\AI_Robot.pdb
+C:\_up-step\VS\AI_Robot\obj\Debug\AI_Robot.csproj.AssemblyReference.cache
+C:\_up-step\VS\AI_Robot\obj\Debug\AI_Robot.csproj.CoreCompileInputs.cache
+C:\_up-step\VS\AI_Robot\obj\Debug\AI_Robot.exe
+C:\_up-step\VS\AI_Robot\obj\Debug\AI_Robot.pdb
